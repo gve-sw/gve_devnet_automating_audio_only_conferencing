@@ -1,0 +1,45 @@
+Audioconferencing Information 
+Personal conferencing name: {email} 
+
+Audio conference details: 
+
+Calling from - Call-in Numbers 
+Germany Toll - +49-619-6781-9736 
+Indian Free-Toll: 0008004405013
+
+For other countries: {site_url}
+Host access code: {host_access_code} 
+Host Audio PIN: {audio_pin_code} 
+Attendee access code: {attendee_access_code} 
+
+To host an audio conference: 
+- To call in to the meeting as the host, you need the call-in number and host access code. 
+- When prompted, enter the host Access code and press #. 
+- When prompted, enter your host PIN and press #. 
+To join an audio conference as attendee: 
+- To call in to the meeting as the participant, you need the call-in number and access code provided by your host. 
+- When prompted, enter the Attendee Access code and press #. 
+
+
+Command during the meeting: 
+
+Host commands: 
+To... -  Enter... 
+Lock the teleconference, preventing anyone else from joining it - *5 
+Unlock the teleconference - *5 
+Mute your microphone - *6 
+Unmute your microphone - *6 
+Meeting reminder email to Host - *7 
+Let participants continue the teleconference without the host - *8 Then hang up your phone. 
+Mute all attendees with full-speaking access - ## 
+Unmute all attendees with full-speaking access - 99 
+Play the participant count - *# 
+Hear all keypad commands that you can use - ** 
+
+Attendee commands: 
+To... -  Enter... 
+Mute your microphone - *6 
+Unmute your microphone - *6 
+Meeting reminder email to Host - *7 
+Play the participant count - *# 
+Hear all keypad commands that you can use - ** 
